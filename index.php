@@ -14,7 +14,7 @@
 <body style="background: #ffa500;">
 <div class="container-fluid">
 	<div class="diveder"></div>
-	 <div class="heading" > <h2> Un model de formulaire </h2> </div>
+	 <div class="heading" > <h2 class="well">Mon formulaire bRRANCHE</h2> </div>
 	 
 	   <!-- <h1> Marshaldenison </h1>
 	   <p> je suis etudiant à l'Université Virtuelle de CI </p> -->
